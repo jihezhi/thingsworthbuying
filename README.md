@@ -18,6 +18,7 @@
 * Panasonic M301 501 701搅拌机
 * VitaClay slow cooker
 * Vermicular无水料理锅
+* AirScape Kitchen Canister(Dave家的）
 
 ## 咖啡用具
 * Hario咖啡壶
