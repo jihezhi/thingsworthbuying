@@ -25,9 +25,10 @@
 * Hario咖啡壶
 * Hario咖啡壶用温度计
 * Hario磨豆器
+* Able KONE金属滤网
 * bodum法压壶
 * Hario法压壶
-* Hario咖啡称
+* Hario咖啡称金属台面隔热款（你会想要隔热来保证咖啡温度的）
 
 ## 健康用具
 * YogaBody Awesome Toes!脚趾扩张器（每个人都需要这玩意，就算你觉得你不需要)
@@ -41,7 +42,7 @@
 
 ## 软件
 * Evernote
-* Headspace
+* Headspace（强烈反对它的冥想理念，然而目前没有更好的替代品，所以大家先用着吧）
 * Welltory
 * Telegram
 * Google ToDo List
@@ -60,14 +61,16 @@
 ## 鞋子
 * Barebottom Shoes
 * Vivobarefoot
-* Luna Sandals
-* Xero Shoes(?)
+* Luna Sandals导电鞋
+* Xero Shoes(只推荐他家sandals)
 * Softstar
 
 ## 家电
+* OURARING YOU!!! NEED!!! THIS!!!!!! JUST BUY IT
 * Wynd便携式空气净化器+空气质量监测仪
 * dyson最新的空气净化风扇（仅限最新那款，更早的都是垃圾）
 * dyson V10无绳吸尘器
+* dyson Airwrap卷发棒
 * dyson吹风机
 * Braun电动牙刷
 * Braun剃须刀
@@ -78,6 +81,8 @@
 * sharefun
 
 ## 食材
+* TheMeatGuy
+* 大地を守る会的蔬菜和日常用品
 * TRUEAUSSIEBEEF/LAMB/GOAT
 * Anchor黄油
 * BRITA滤水壶
