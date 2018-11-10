@@ -31,7 +31,7 @@
 * Hario咖啡称金属台面隔热款（你会想要隔热来保证咖啡温度的）
 
 ## 健康用具
-* YogaBody Awesome Toes!脚趾扩张器（每个人都需要这玩意，就算你觉得你不需要)
+* https://www.correcttoes.com/
 * Jadeyoga瑜伽垫
 * YogaBody竹制瑜伽砖
 * Jadeyoga木制瑜伽砖
