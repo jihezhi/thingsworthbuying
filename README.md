@@ -71,7 +71,7 @@
 * dyson最新的空气净化风扇（仅限最新那款，更早的都是垃圾）
 * dyson V10无绳吸尘器
 * dyson Airwrap卷发棒
-* dyson吹风机
+* dyson lightcycle台灯
 * Braun电动牙刷
 * Braun剃须刀
 * Tria激光脱毛仪
@@ -81,6 +81,7 @@
 * sharefun
 
 ## 食材
+* KIRKLAND SIGNATURE HIMALAYAN PINK SALT
 * TheMeatGuy
 * 大地を守る会的蔬菜和日常用品
 * TRUEAUSSIEBEEF/LAMB/GOAT
