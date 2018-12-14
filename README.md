@@ -53,6 +53,7 @@
 * Tempur Futon床垫
 * Tempur千禧感温枕
 * gravity毯子
+* ChiliPAD水循环恒温毯
 
 ## 衣服
 * 無印良品
