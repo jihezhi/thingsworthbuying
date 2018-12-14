@@ -25,7 +25,7 @@
 * Hario咖啡壶
 * Hario咖啡壶用温度计
 * Hario磨豆器
-* Able KONE金属滤网
+* CHEMEX6人份手冲器具 + Able KONE金属滤网
 * bodum法压壶
 * Hario法压壶
 * Hario咖啡称金属台面隔热款（你会想要隔热来保证咖啡温度的）
