@@ -84,9 +84,10 @@
 ## 食材
 * KIRKLAND SIGNATURE HIMALAYAN PINK SALT
 * BUTCHERBOX
+* buyranchdirect
 * TheMeatGuy
-* 大地を守る会的蔬菜和日常用品
 * TRUEAUSSIEBEEF/LAMB/GOAT
+* 大地を守る会的蔬菜和日常用品
 * Anchor黄油
 * BRITA滤水壶
 
@@ -96,10 +97,10 @@
 * HOME biotic霉菌清除剂
 
 ## 头发用品
-* Tangle Teezer梳
-* 金黄色的Jojoba油
 * Arromic Scalp Care Shower洗头专用花洒（务必买黑色款）
 * Arromic VitaminC Ball（如果你买了上面的花洒，你一定需要这玩意）
+* Tangle Teezer梳
+* 金黄色的Jojoba油
 
 ## 自慰用具
 * U.F.O.乳头刷（超级舒服~）
