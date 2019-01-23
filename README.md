@@ -31,9 +31,11 @@
 * Hario咖啡称金属台面隔热款（你会想要隔热来保证咖啡温度的）
 
 ## 健康用具
+* ザ・マグネシウム & ランドリーマグちゃん from magchan.com
+* http://www.yano-ring.com/
 * https://www.correcttoes.com/
+* http://ouraring.com
 * Jadeyoga瑜伽垫
-* YogaBody竹制瑜伽砖
 * Jadeyoga木制瑜伽砖
 * TrueDark眼镜
 
@@ -67,7 +69,7 @@
 * Softstar
 
 ## 家电
-* OURARING YOU!!! NEED!!! THIS!!!!!! JUST BUY IT
+* http://ouraring.com
 * Wynd便携式空气净化器+空气质量监测仪
 * dyson最新的空气净化风扇（仅限最新那款，更早的都是垃圾）
 * dyson V10无绳吸尘器
@@ -75,14 +77,15 @@
 * dyson lightcycle台灯
 * Braun电动牙刷
 * Braun剃须刀
-* Tria激光脱毛仪
+* Tria激光脱毛仪(?可能有更好的替代品)
 * Panasonic便携菊花冲洗器（每个人都需要一个这玩意！保证你远离痔疮）
 
 ## 内裤
-* sharefun
+* sharefun(男孩子款已绝版)
 
 ## 食材
-* KIRKLAND SIGNATURE HIMALAYAN PINK SALT
+* The Original Himalayan Pink Salt from https://symphonynaturalhealth.com/
+* rivsalt(?)
 * BUTCHERBOX
 * buyranchdirect
 * TheMeatGuy
@@ -92,13 +95,15 @@
 * BRITA滤水壶
 
 ## 清洁用品
+* ランドリーマグちゃん from magchan.com
 * Branch Basics一般目的清洗剂
 * eat cleaner果蔬清洗剂
 * HOME biotic霉菌清除剂
 
 ## 头发用品
-* Arromic Scalp Care Shower洗头专用花洒（务必买黑色款）
-* Arromic VitaminC Ball（如果你买了上面的花洒，你一定需要这玩意）
+* ザ・マグネシウム from magchan.com
+* Arromic Scalp Care Shower洗头专用花洒（务必买黑色款）(?)
+* Arromic VitaminC Ball（如果你买了上面的花洒，你一定需要这玩意）(?)
 * Tangle Teezer梳
 * 金黄色的Jojoba油
 
