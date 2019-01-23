@@ -16,9 +16,11 @@
 
 ## 厨具
 * Panasonic M301 501 701搅拌机
+* Joule
+* FoodSaver
 * VitaClay slow cooker
 * Le Creuset珐琅锅
-* Vermicular无水料理锅
+* Vermicular无水料理锅(?)
 * AirScape Kitchen Canister(Dave家的）
 
 ## 咖啡用具
