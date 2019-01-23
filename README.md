@@ -97,6 +97,8 @@
 * BRITA滤水壶
 
 ## 清洁用品
+* soil GEM ひる石バスマット [ Mサイズ ] 珪藻土バスマット
+* 麻制浴巾
 * ランドリーマグちゃん from magchan.com
 * Branch Basics一般目的清洗剂
 * eat cleaner果蔬清洗剂
