@@ -54,14 +54,14 @@
 * Momentum
 
 ## 寝具
-* Tempur Futon床垫
-* Tempur千禧感温枕
-* gravity毯子
+* La Siesta吊床有机棉双人款
+* OneTigris Underquilt冬天款
 * ChiliPAD水循环恒温毯
+* gravity毯子(?)
 
 ## 衣服
 * 無印良品
-* ユニクロ
+* ユニクロ(?)
 
 ## 鞋子
 * Barebottom Shoes
