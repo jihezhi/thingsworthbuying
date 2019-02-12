@@ -51,13 +51,13 @@
 * Telegram
 * Google ToDo List
 * Pushbullet
-* Momentum
+* Momentum(?)
 
 ## 寝具
-* La Siesta吊床有机棉双人款
-* OneTigris Underquilt冬天款
-* ChiliPAD水循环恒温毯
-* gravity毯子(?)
+* La Siesta巴西有机棉吊床king size
+* La Siesta玛雅普通棉吊床king size
+* 无印良品纯羊毛多用布220x260cm（用来裹身上）
+
 
 ## 衣服
 * 無印良品
