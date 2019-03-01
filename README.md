@@ -4,6 +4,8 @@
 
 该清单应当能够指导我们的购物。我们可能需要清单上的物品，而清单以外的物品我们可能并不需要。各位可以根据自己的经验来扩充、修改该清单。
 
+带问号的表示我十分犹豫，有可能去掉。
+
 ## 文具
 * KingJim文件收纳用具
 * 三菱的笔
@@ -18,7 +20,7 @@
 * Panasonic M301 501 701搅拌机
 * Joule
 * FoodSaver
-* VitaClay slow cooker
+* VitaClay slow cooker (?)
 * Le Creuset珐琅锅
 * Vermicular无水料理锅(?)
 * AirScape Kitchen Canister(Dave家的）
@@ -34,20 +36,16 @@
 
 ## 健康用具
 * ザ・マグネシウム & ランドリーマグちゃん from magchan.com
-* http://www.yano-ring.com/
-* https://www.correcttoes.com/
+* http://www.yano-ring.com/ (?)
+* https://www.correcttoes.com/ (?)
 * http://ouraring.com
-* Jadeyoga瑜伽垫
-* Jadeyoga木制瑜伽砖
 * TrueDark眼镜
 
 ## 办公用具
-* Variable Balans椅子
+* Variable Balans椅子 (?)
 
 ## 软件
 * Evernote
-* Headspace（强烈反对它的冥想理念，然而目前没有更好的替代品，所以大家先用着吧）
-* Welltory
 * Telegram
 * Google ToDo List
 * Pushbullet
@@ -56,7 +54,7 @@
 ## 寝具
 * La Siesta巴西有机棉吊床king size
 * La Siesta玛雅普通棉吊床king size
-* 无印良品纯羊毛多用布220x260cm（用来裹身上）
+* Shepard's Dream 有机羊毛毯Queen size
 
 
 ## 衣服
@@ -100,16 +98,18 @@
 * soil GEM ひる石バスマット [ Mサイズ ] 珪藻土バスマット
 * 麻制浴巾
 * ランドリーマグちゃん from magchan.com
-* Branch Basics一般目的清洗剂
-* eat cleaner果蔬清洗剂
-* HOME biotic霉菌清除剂
+* ベジセーフ果蔬清洗剂兼一般目的清洗剂
+* HOME biotic霉菌抑制剂
+* Branch Basics一般目的清洗剂 (?)
 
 ## 头发用品
-* ザ・マグネシウム from magchan.com
+* hair bungee (澳大利亚那家)
+* dyson Airwrap卷发棒
+* ザ・マグネシウム from magchan.com (?)
 * Arromic Scalp Care Shower洗头专用花洒（务必买黑色款）(?)
 * Arromic VitaminC Ball（如果你买了上面的花洒，你一定需要这玩意）(?)
-* Tangle Teezer梳
-* 金黄色的Jojoba油
+* Tangle Teezer梳 (?)
+* 金黄色的Jojoba油 (?)
 
 ## 自慰用具
 * U.F.O.乳头刷（超级舒服~）
